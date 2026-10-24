@@ -27,9 +27,20 @@ The Flight Reservation System is a Python-based project developed as part of the
 ## Learning Outcomes
 This project helps in understanding how searching and sorting techniques can be applied to a real-world example. It also improves Python programming and problem-solving skills.
 
-## Output
-The following screenshot shows the output of the Flight Reservation System.
-![Flight Reservation System Output](flight-1.png,flight-2.png,flight-3.png,flight-4.png)
+## Output Screenshots
+
+### Output 1
+![Output 1](flight-1.png)
+
+### Output 2
+![Output 2](flight-2.png)
+
+### Output 3
+![Output 3](flight-3.png)
+
+### Output 4
+![Output 4](flight-4.png)
+
 
 ## Author
 Computer Engineering Student
